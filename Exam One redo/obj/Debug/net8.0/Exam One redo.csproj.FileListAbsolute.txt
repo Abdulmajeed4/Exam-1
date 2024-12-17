@@ -1,0 +1,14 @@
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\Exam One redo\obj\Debug\net8.0\Exam One redo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\Exam One redo\obj\Debug\net8.0\Exam One redo.AssemblyInfoInputs.cache
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\Exam One redo\obj\Debug\net8.0\Exam One redo.AssemblyInfo.cs
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\Exam One redo\obj\Debug\net8.0\Exam One redo.csproj.CoreCompileInputs.cache
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\Exam One redo\bin\Debug\net8.0\Exam One redo.exe
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\Exam One redo\bin\Debug\net8.0\Exam One redo.deps.json
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\Exam One redo\bin\Debug\net8.0\Exam One redo.runtimeconfig.json
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\Exam One redo\bin\Debug\net8.0\Exam One redo.dll
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\Exam One redo\bin\Debug\net8.0\Exam One redo.pdb
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\Exam One redo\obj\Debug\net8.0\Exam One redo.dll
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\Exam One redo\obj\Debug\net8.0\refint\Exam One redo.dll
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\Exam One redo\obj\Debug\net8.0\Exam One redo.pdb
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\Exam One redo\obj\Debug\net8.0\Exam One redo.genruntimeconfig.cache
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\Exam One redo\obj\Debug\net8.0\ref\Exam One redo.dll
